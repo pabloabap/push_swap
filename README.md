@@ -27,4 +27,4 @@ as very optimized **500 numbers in less than 5,500 movements**.
 Wrong inputs are handled printing an error message.
 
 # Resources
-[Algorithm implemented (turkish algorithm](https://medium.com/@ayogun/push-swap-c1f5d2d41e97)
+[Algorithm implemented (turkish algorithm)](https://medium.com/@ayogun/push-swap-c1f5d2d41e97)
